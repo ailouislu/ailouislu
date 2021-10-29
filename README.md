@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/nzlouis
 
-- 📫 How to reach me: …                       https://nzlouis.com/
+- 📫 How to reach me: …                       https://nzlouis.com
 - 
 
 
