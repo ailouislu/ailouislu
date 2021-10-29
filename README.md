@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 # Programming languages
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=#007396)](https://oracle.com)
 [![](https://img.shields.io/badge/-React-007395?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org)
 [![](https://img.shields.io/badge/-.net-007393?style=flat-square&logo=.NET&logoColor=#512BD4)](https://docs.microsoft.com)
 [![](https://img.shields.io/badge/-javascript-007391?style=flat-square&logo=javascript&logoColor=#F7DF1E)](https://javascript.com)
 
