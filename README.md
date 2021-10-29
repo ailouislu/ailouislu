@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://oracle.com)
 [![](https://img.shields.io/badge/-React-007395?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![](https://img.shields.io/badge/-.net-007393?style=flat-square&logo=.net&logoColor=8B5DCF)](https://docs.microsoft.com)
-[![](https://img.shields.io/badge/-javascript-007391?style=flat-square&logo=javascript&logoColor=ffffff)](https://javascript.com)
+[![](https://img.shields.io/badge/-javascript-007391?style=flat-square&logo=javascript&logoColor=EFD81D)](https://javascript.com)
 
 
