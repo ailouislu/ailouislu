@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job as a React developer, a Java developer, or a C# developer in Wellington New Zealand ...
 - 🌱 I’m currently learning React, C# and Java ...
-- 😄 I’m developing some awesome projects ... http://books.nzlouis.com/books
+- 😄 I’m developing some awesome projects ... http://books.nzlouis.com
 
 - 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/nzlouis
 
