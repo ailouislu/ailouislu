@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Programming languages
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://oracle.org)
 [![](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org)
-[![](https://img.shields.io/badge/-C#-007396?style=flat-square&logo=c#&logoColor=ffffff)](https://docs.microsoft.com)
+[![](https://img.shields.io/badge/-.net-007396?style=flat-square&logo=c#&logoColor=ffffff)](https://docs.microsoft.com)
 
 ![info](https://github-readme-stats.vercel.app/api?username=LouisAugustine&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
