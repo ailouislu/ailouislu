@@ -8,6 +8,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/LouisAugustine/)
 [<img src="nzlouis1.jpg" width="100" height="28">](https://nzlouis.com)
 
+---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job as a React developer, a Java developer, or a C# developer in Wellington New Zealand ...
@@ -17,7 +19,8 @@ Here are some ideas to get you started:
 - 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/nzlouis
 
 - 📫 How to reach me: …                       https://nzlouis.com
-- 
+
+---
 
 
 
