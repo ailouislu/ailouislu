@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-.net-007393?style=flat-square&logo=.NET&logoColor=#512BD4)](https://docs.microsoft.com)
 [![](https://img.shields.io/badge/-javascript-007391?style=flat-square&logo=javascript&logoColor=#F7DF1E)](https://javascript.com)
 
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+
+
 
