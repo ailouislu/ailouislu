@@ -6,7 +6,7 @@
 <i>Follow me:</i><br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/LouisAugustine/)
-[<img src="https://img.shields.io/badge/NZLouis.com-%23000000.svg?&style=for-the-badge">](https://nzlouis.com)
+[<img src="nzlouis1.jpg">](https://nzlouis.com)
 
 Here are some ideas to get you started:
 
