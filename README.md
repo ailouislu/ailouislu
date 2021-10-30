@@ -3,7 +3,7 @@
 
 **Louis Augustine** is a ✨ _highly competent_ ✨ Full Stack Developer with six years of experience. He is looking for a job now.
 
-<i>Follow me:</i>
+<i>Follow me:</i><br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/LouisAugustine/)
 [<img src="nzlouis1.jpg" width="100" height="28">](https://nzlouis.com)
