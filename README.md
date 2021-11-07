@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=LouisAugustine&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # Certificates
-[<img src="java.png" width="400" height="300">](https://www.hackerrank.com/certificates/caa990ba6f28)
+[<img src="java.png" width="500" height="400">](https://www.hackerrank.com/certificates/caa990ba6f28)
 
 # Programming languages
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=#007396)](https://oracle.com)
