@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # Certificates
 [<img src="java.png" width="600" height="420">](https://www.hackerrank.com/certificates/caa990ba6f28)
 
-# Programming languages
+# Programming Languages
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=#007396)](https://oracle.com)
 [![](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)](https://reactjs.org)
 [![](https://img.shields.io/badge/-.net-007393?style=flat-square&logo=.NET&logoColor=#512BD4)](https://docs.microsoft.com)
