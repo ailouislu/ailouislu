@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job as a Java developer or a React developer in New Zealand ...
 - 🌱 I’m currently learning Java, React, C#, and AWS ...
-- 😄 I’m developing some awesome projects ... http://books.nzlouis.com:3000
+- 😄 I’m developing some awesome projects ... http://books.nzlouis.com
 
 - 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/nzlouis
 
