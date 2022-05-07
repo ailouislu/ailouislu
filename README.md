@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # Certificates
 [<img src="java.png" width="600" height="420">](https://www.hackerrank.com/certificates/caa990ba6f28)
 
-# Programming Languages
+# Skilled In Technology
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
