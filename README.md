@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 # Programming Languages
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=#007396)](https://oracle.com)
 [![](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)](https://reactjs.org)
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)](https://javascript.com)
 [![](https://img.shields.io/badge/-.net-007393?style=flat-square&logo=.NET&logoColor=#512BD4)](https://docs.microsoft.com)
 
