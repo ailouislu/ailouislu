@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Louis Augustine** is a ✨ _highly competent_ ✨ Full Stack Developer with six years of experience. He is looking for a job now.
+**Louis Augustine** is a ✨ _highly competent_ ✨ Software Engineer at Westpac New Zealand.
 
 <i>Follow me:</i><br>
 
