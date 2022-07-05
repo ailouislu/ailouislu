@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Louis Augustine** is a ✨ _highly competent_ ✨ Software Engineer at Westpac New Zealand.
+**Louis Lu** is a ✨ _highly competent_ ✨ Software Engineer at Westpac New Zealand.
 
 <i>Follow me:</i><br>
 
