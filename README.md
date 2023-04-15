@@ -5,7 +5,7 @@
 
 <i>Follow me:</i><br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nzlouis)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ailouis)
 [<img src="nzlouis1.jpg" width="100" height="28">](https://nzlouis.com)
 
 ---
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, React, Python, and AWS ...
 - 😄 I’m developing some awesome projects ... https://books.nzlouis.com
 
-- 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/nzlouis
+- 💬 I’m hoping to talk with you ...          https://www.linkedin.com/in/ailouis
 
 - 📫 How to reach me: …                       https://nzlouis.com
 
