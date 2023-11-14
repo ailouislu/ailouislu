@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Certificates
-[<img src="java.png" width="600" height="420">](https://www.hackerrank.com/certificates/caa990ba6f28)
 
 
 
