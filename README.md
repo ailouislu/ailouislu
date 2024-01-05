@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-![info](https://github-readme-stats.vercel.app/api?username=LouisAugustine&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=ailouislu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # Skilled In Technology
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
