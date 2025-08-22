@@ -1,4 +1,4 @@
-### Welcome to NZLouis' github 👋
+### Welcome to NZLouis' GitHub 👋
 
 
 **Louis Lu** is a ✨ _highly competent_ ✨ Software Engineer at Westpac New Zealand.
