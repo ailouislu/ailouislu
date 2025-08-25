@@ -15,7 +15,7 @@ I bridge **banking-grade enterprise software** with **modern AI/LLM solutions**,
 
 ## 🌟 About Me
 - 🔭 Currently based in **New Zealand**, working on enterprise banking systems and AI side projects.  
-- 🌱 Expanding expertise in **Java, React, Python, AWS, and AI/ML (LLMs, Hugging Face, Google Gemini API)**.  
+- 🌱 Expanding expertise in **React, Python, Java, AWS, and AI/ML (LLMs, Hugging Face, Google Gemini API)**.  
 - 🤖 Exploring **LLMs, Computer Vision, Robotics, and MLOps** for future projects.  
 - 💡 Open to **remote opportunities** in the **US** and **Australia** where I can combine software engineering with AI innovation.  
 - 😄 Building cool things like:  
